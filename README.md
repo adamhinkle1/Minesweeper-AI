@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1UCPLuQLGiCymiPw4awpYPpM7wnj_sTqt?usp=sh
 ## Description
   Python program generates a randomized minesweeper board, and attempts to solve it with a nearly perfect AI. 
 
-## ALGORITHM
+## Algorithm
 
     1.) search for simple solutions using only information from adjacent squares  (fastest/preferred)
     
